@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RecordSearch" value="name:id;datatype:int,name:b_name;datatype:string,name:b_author;datatype:string,name:b_img;datatype:string" />
+</info>
